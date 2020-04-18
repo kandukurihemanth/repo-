@@ -1,0 +1,38 @@
+Response:
+{
+  "Date1": {
+    "Instance0": {
+      "Date": "2020-04-16",
+      "Name": "GrowthServices-Prod-3",
+      "Instance ID": "i-0509241e005c9dc72",
+      "Image ID": "ami-009110a2bf8d7dd0a"
+    },
+    "Instance1": {
+      "Date": "2020-04-16",
+      "Name": "Notification-Service-Prod-1",
+      "Instance ID": "i-05d2205e11670d752",
+      "Image ID": "ami-0620d12a9cf777c87"
+    },
+    "Instance2": {
+      "Date": "2020-04-16",
+      "Name": "RupeekQuickPoc-env-1",
+      "Instance ID": "i-09f72106be98a8f33",
+      "Image ID": "ami-0b81ffd6552a1f009"
+    },
+    "Instance3": {
+      "Date": "2020-04-16",
+      "Name": "Workflow-Zeebe-Cluster-Prod-1",
+      "Instance ID": "i-01858dfe796004e80",
+      "Image ID": "ami-0620d12a9cf777c87"
+    }
+  },
+  "Date2": {
+    "Instance0": {
+      "Date": "2020-04-17",
+      "Name": "bastion test",
+      "Instance ID": "i-04c51161461e45ac7",
+      "Image ID": "ami-0572d8b1194635327"
+    }
+  },
+  "Date3": {}
+}

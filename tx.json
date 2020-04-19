@@ -1,5 +1,6 @@
 {
   "Date1": {
+    "CreationDate": "2020-04-16",
     "Instance0": {
       "Date": "2020-04-16",
       "Name": "GrowthServices-Prod-3",
@@ -26,6 +27,7 @@
     }
   },
   "Date2": {
+    "CreationDate": "2020-04-17",
     "Instance0": {
       "Date": "2020-04-17",
       "Name": "bastion test",
@@ -33,5 +35,7 @@
       "Image ID": "ami-0572d8b1194635327"
     }
   },
-  "Date3": {}
+  "Date3": {
+    "CreationDate": "2020-04-18"
+  }
 }

@@ -1,0 +1,24 @@
+
+{
+  "response": [
+    {
+      "creationDate": "2020-04-17",
+      "instances": [
+        {
+          "name": "bastion test",
+          "instanceId": "i-04c51161461e45ac7",
+          "imageId": "ami-0572d8b1194635327"
+        }
+      ]
+    },
+    {
+      "creationDate": "2020-04-18",
+      "instances": []
+    },
+    {
+      "creationDate": "2020-04-19",
+      "instances": []
+    }
+  ]
+}
+	
